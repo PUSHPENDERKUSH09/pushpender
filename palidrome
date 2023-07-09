@@ -1,0 +1,6 @@
+name= input("name=")
+print(name)
+if name==name[::-1]:
+    print("this is a palidroem ")
+else:
+    print("this is not a palidroem")
